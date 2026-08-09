@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1786035595838,
+      "tag": "0000_legal_inhumans",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1786087614636,
+      "tag": "0001_bookings_no_overlap_constraint",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1786107538597,
+      "tag": "0002_fantastic_kat_farrell",
+      "breakpoints": true
+    }
+  ]
+}
